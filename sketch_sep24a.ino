@@ -1,3 +1,25 @@
+/*
+
+Connor Morley
+
+9/27/2018
+
+Project/assignment name:
+
+This is code that allows for the ultrasonic sensor to determine the distance that objects 
+
+ 
+
+Credits for code referenced:
+
+ 
+
+Notes:
+
+ 
+
+*/
+
 //int sensorPin = A0;    // select the input pin for the potentiometer
 const int ledPin1 = 10;      // the number of the LED pin
 const int ledPin2 = 11;
